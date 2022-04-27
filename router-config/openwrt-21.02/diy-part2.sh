@@ -49,6 +49,8 @@ svn co https://github.com/helmiau/helmiwrt-packages/tree/main/luci-app-libernet-
 
 svn co https://github.com/helmiau/helmiwrt-packages/tree/main/luci-app-tinyfm
 
+svn co https://github.com/helmiau/helmiwrt-packages/tree/main/luci-app-wegare
+
 # coolsnowwolf default software package replaced with Lienol related software package
 # rm -rf feeds/packages/utils/{containerd,libnetwork,runc,tini}
 # svn co https://github.com/Lienol/openwrt-packages/trunk/utils/{containerd,libnetwork,runc,tini} feeds/packages/utils
